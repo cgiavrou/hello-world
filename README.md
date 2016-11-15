@@ -1,3 +1,3 @@
 # hello-world
-Just  another test
-i like Delphi, C# and Java
+Just  another test.
+I like Delphi, C# and Java
